@@ -17,7 +17,7 @@
 * 全景视频播放器
 * VR照片管理系统
 * 峨眉山大场景实时渲染
-* 个人网站搭建 ([主页](https://songxiaofeng.top/)  |  [源码](<https://github.com/ikutoo/ikutoo.github.io>))
+* 个人网站搭建 ([主页](https://songxiaofeng.top/)  [源码](<https://github.com/ikutoo/ikutoo.github.io>))
 * INFINITE: 一个仿shadertoy的Windows本地渲染器 ([源码](https://github.com/s-toy/Infinite))
 
 **2017**
